@@ -1,0 +1,15 @@
+[submodule "zookeeper"]
+	path = zookeeper
+	url = https://outerman@github.com/edf-x/edf-zookeeper.git
+[submodule "webserver"]
+	path = webserver
+	url = https://outerman@github.com/edf-x/edf-webserver.git
+[submodule "website"]
+	path = website
+	url = https://outerman@github.com/edf-x/edf-website.git
+[submodule "service"]
+	path = service
+	url = https://outerman@github.com/edf-x/edf-service.git
+[submodule "db"]
+	path = db
+	url = https://outerman@github.com/edf-x/edf-db.git
